@@ -1,0 +1,11 @@
+[Unit]
+Description=Log Broadcast Service
+Documentation=https://github.com/nanometer5088/logfile-to-discord
+After=network.target
+
+[Service]
+User=root
+ExecStart=/bin/bash path/to/log_broadcast.sh
+
+[Install]
+WantedBy=multi-user.target
