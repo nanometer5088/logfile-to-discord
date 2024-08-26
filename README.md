@@ -20,8 +20,8 @@
   <a href="https://discord.gg/7qK8sfEq2q">
     <img src="https://img.shields.io/discord/1068543728274382868?color=7289da&label=Support&logo=discord&logoColor=7289da&style=for-the-badge" alt="Discord">
   </a>
-  <a href="https://www.python.org/">
-    <img src="https://img.shields.io/github/languages/top/ovosimpatico/logfile-to-discord?logo=python&logoColor=yellow&style=for-the-badge" alt="Language">
+  <a href="https://www.gnu.org/software/bash/">
+    <img src="https://img.shields.io/github/languages/top/ovosimpatico/logfile-to-discord?logo=gnubash&logoColor=yellow&style=for-the-badge" alt="Language">
   </a>
   <a href="https://github.com/ovosimpatico/logfile-to-discord/blob/main/LICENSE">
     <img src="https://img.shields.io/github/license/ovosimpatico/logfile-to-discord?style=for-the-badge" alt="License">
