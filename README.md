@@ -1,8 +1,32 @@
-# Logfile to Discord
+<p align="center">
+  <img src="docs/assets/logo.png" alt="Logfile to Discord logo" width="200"
+  style = "border-radius: 10%;"/>
+</p>
 
-This repository contains a simple shell script and systemd service files that allow you to broadcast log messages to a Discord channel using a webhook. 
+<h1 align="center">Logfile to Discord</h1>
 
-This can be useful for monitoring and receiving notifications about specific events or errors in your log files.
+<p align="center">
+  <strong>Manage your server logs directly from a Discord channel</strong>
+</p>
+
+<p align="center">
+  <a href="#prerequisites">Pre-requisites</a> •
+  <a href="#usage">Usage</a> •
+  <a href="#license">License</a> •
+  <a href="#contributing">Contributing</a>
+</p>
+
+<p align="center">
+  <a href="https://discord.gg/7qK8sfEq2q">
+    <img src="https://img.shields.io/discord/1068543728274382868?color=7289da&label=Support&logo=discord&logoColor=7289da&style=for-the-badge" alt="Discord">
+  </a>
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/github/languages/top/ovosimpatico/logfile-to-discord?logo=python&logoColor=yellow&style=for-the-badge" alt="Language">
+  </a>
+  <a href="https://github.com/ovosimpatico/logfile-to-discord/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/ovosimpatico/logfile-to-discord?style=for-the-badge" alt="License">
+  </a>
+</p>
 
 ## Prerequisites
 
@@ -67,6 +91,10 @@ To use this script, follow the steps below:
    ```
 
    If everything is set up correctly, you should see the service running without any errors.
+
+## License
+
+This project is licensed under the GNU Affero General Public License v3.0 (AGPLv3). This license requires that any modifications to the code must also be made available under the same license, even when the software is run as a service (e.g., over a network). See the [LICENSE](LICENSE) file for details.
 
 ## Contributing
 
